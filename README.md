@@ -199,9 +199,9 @@ graph LR
 
 ## Built by Kay
 
-Made with ☕ by [Kay](https://github.com/kaydong) — digital nomad in Dali, building tools for the AI-native web.
+Made with ☕ by [Kay](https://github.com/kaydong)
 
-> 由 [Kay](https://github.com/kaydong) 在大理制作——为 AI 原生网络打造的工具。
+> 由 [Kay](https://github.com/kaydong) 
 
 ---
 
